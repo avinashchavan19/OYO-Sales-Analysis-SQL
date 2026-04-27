@@ -72,6 +72,7 @@ OYO-Sales-Analysis-SQL/
 ### 📊 KPI Dashboard
 
 ![KPI](images/KPIs.png)
+
 👉 Provides a quick summary of overall business performance.
 
 ---
@@ -79,6 +80,7 @@ OYO-Sales-Analysis-SQL/
 ### 📈 Monthly Sales
 
 ![Monthly Sales](images/monthly_sales.png)
+
 👉 Revenue varies across months, indicating seasonal demand trends.
 
 ---
@@ -86,6 +88,7 @@ OYO-Sales-Analysis-SQL/
 ### ❌ Cancellation Rate
 
 ![Cancellation Rate](images/cancellation_rate.png)
+
 👉 Higher cancellation rates in certain months impact revenue stability.
 
 ---
@@ -93,6 +96,7 @@ OYO-Sales-Analysis-SQL/
 ### 📅 Day-wise Revenue
 
 ![Day-wise Revenue](images/daywise_revenue.png)
+
 👉 Certain days contribute more to total bookings and revenue.
 
 ---
